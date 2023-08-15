@@ -18,4 +18,6 @@ update the app.py
 
 
 
+
+
 docker save image url : public.ecr.aws/t2e9z3e2/text-sum
