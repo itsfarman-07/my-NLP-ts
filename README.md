@@ -11,3 +11,11 @@ update the conponents
 update the pipeline
 update the main.py
 update the app.py
+
+
+
+
+
+
+
+docker save image url : public.ecr.aws/t2e9z3e2/text-sum
